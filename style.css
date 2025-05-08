@@ -46,7 +46,7 @@
   }
   .container{
     
-    background :url(./images1/photo6.png);
+    background :url(./images1/background.jpeg);
     background-size: cover;      
     background-position: center; 
     background-repeat: no-repeat;
@@ -60,19 +60,19 @@
 
   }
   h2{
-    color: whitesmoke;
+    color: black;
     font-size: 130px;
     --body-font: 'Poppins', sans-serif;
-    margin-left: 60px;
+    margin-left: 80px;
     position: absolute;
-    margin-top: 180px;
+    margin-top: 190px;
    
   }
   .role{
-    color: whitesmoke;
-    margin-left: 40px;
+    color: black;
+    margin-left: 60px;
     position: absolute;
-    margin-top: 100px;
+    margin-top: 110px;
     font-size: 50px;
   }
 
